@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/MiningCollapse.mp3-a76bebc372b120f3058a033b87837174.mp3str"
+
+[deps]
+
+source_file="res://Audio/SE/MiningCollapse.mp3"
+dest_files=[ "res://.import/MiningCollapse.mp3-a76bebc372b120f3058a033b87837174.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

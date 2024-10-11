@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/BW2Cancel.WAV-2342100d0b32f44202121f05f41426b9.sample"
+
+[deps]
+
+source_file="res://Audio/SE/BW2Cancel.WAV"
+dest_files=[ "res://.import/BW2Cancel.WAV-2342100d0b32f44202121f05f41426b9.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

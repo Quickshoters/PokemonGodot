@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/PU-partypreview.mp3-471e9baf6f2144a213e1e4a3442f3d1a.mp3str"
+
+[deps]
+
+source_file="res://Audio/SE/PU-partypreview.mp3"
+dest_files=[ "res://.import/PU-partypreview.mp3-471e9baf6f2144a213e1e4a3442f3d1a.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-River.ogg-48871053d7fbb6829742e240e25d6c53.oggstr"
+
+[deps]
+
+source_file="res://Audio/BGS/PU-River.ogg"
+dest_files=[ "res://.import/PU-River.ogg-48871053d7fbb6829742e240e25d6c53.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Poison.ogg-6baf6053ae4c8bd1fdfa9c2b7bbdc9b5.oggstr"
+
+[deps]
+
+source_file="res://Audio/SE/Poison.ogg"
+dest_files=[ "res://.import/Poison.ogg-6baf6053ae4c8bd1fdfa9c2b7bbdc9b5.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

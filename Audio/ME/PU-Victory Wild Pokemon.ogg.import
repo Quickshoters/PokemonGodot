@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-Victory Wild Pokemon.ogg-65dd39a50832aff4a1ef350fd222bb6c.oggstr"
+
+[deps]
+
+source_file="res://Audio/ME/PU-Victory Wild Pokemon.ogg"
+dest_files=[ "res://.import/PU-Victory Wild Pokemon.ogg-65dd39a50832aff4a1ef350fd222bb6c.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

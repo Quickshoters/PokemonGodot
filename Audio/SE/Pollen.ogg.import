@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Pollen.ogg-67309532b28a5628509d294f87657667.oggstr"
+
+[deps]
+
+source_file="res://Audio/SE/Pollen.ogg"
+dest_files=[ "res://.import/Pollen.ogg-67309532b28a5628509d294f87657667.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

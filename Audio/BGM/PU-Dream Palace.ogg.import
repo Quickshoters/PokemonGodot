@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-Dream Palace.ogg-5c08207066f9677cf78db80841dac1b8.oggstr"
+
+[deps]
+
+source_file="res://Audio/BGM/PU-Dream Palace.ogg"
+dest_files=[ "res://.import/PU-Dream Palace.ogg-5c08207066f9677cf78db80841dac1b8.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

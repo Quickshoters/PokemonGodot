@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/BW_flee.wav-ef355e87771b4e6c12dbfba2e5b9ed4b.sample"
+
+[deps]
+
+source_file="res://Audio/SE/BW_flee.wav"
+dest_files=[ "res://.import/BW_flee.wav-ef355e87771b4e6c12dbfba2e5b9ed4b.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

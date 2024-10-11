@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/BadgeME.ogg-eaad260aedc82aa2b38031387c59a72d.oggstr"
+
+[deps]
+
+source_file="res://Audio/ME/BadgeME.ogg"
+dest_files=[ "res://.import/BadgeME.ogg-eaad260aedc82aa2b38031387c59a72d.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

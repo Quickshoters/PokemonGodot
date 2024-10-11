@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-turnpage.ogg-4c153d79dc87770b0ca71e37ce899800.oggstr"
+
+[deps]
+
+source_file="res://Audio/SE/PU-turnpage.ogg"
+dest_files=[ "res://.import/PU-turnpage.ogg-4c153d79dc87770b0ca71e37ce899800.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

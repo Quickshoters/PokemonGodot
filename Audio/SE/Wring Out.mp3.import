@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Wring Out.mp3-284b8c32090f962ec9be6cdb7506b111.mp3str"
+
+[deps]
+
+source_file="res://Audio/SE/Wring Out.mp3"
+dest_files=[ "res://.import/Wring Out.mp3-284b8c32090f962ec9be6cdb7506b111.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

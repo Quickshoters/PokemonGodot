@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Lock On.mp3-e8b07ff5d3e8c7d1f92c92754a32bd48.mp3str"
+
+[deps]
+
+source_file="res://Audio/SE/Lock On.mp3"
+dest_files=[ "res://.import/Lock On.mp3-e8b07ff5d3e8c7d1f92c92754a32bd48.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

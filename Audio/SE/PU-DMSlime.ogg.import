@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-DMSlime.ogg-3605c6694e971ab75b15a0d628f74d75.oggstr"
+
+[deps]
+
+source_file="res://Audio/SE/PU-DMSlime.ogg"
+dest_files=[ "res://.import/PU-DMSlime.ogg-3605c6694e971ab75b15a0d628f74d75.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

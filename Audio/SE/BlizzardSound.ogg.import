@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/BlizzardSound.ogg-0f7d3b453c49a44d2bf6181f6132db68.oggstr"
+
+[deps]
+
+source_file="res://Audio/SE/BlizzardSound.ogg"
+dest_files=[ "res://.import/BlizzardSound.ogg-0f7d3b453c49a44d2bf6181f6132db68.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

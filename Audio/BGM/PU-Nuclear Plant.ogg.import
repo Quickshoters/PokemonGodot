@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-Nuclear Plant.ogg-78f78bab58f64f8bbcc6bd0b42f01bbe.oggstr"
+
+[deps]
+
+source_file="res://Audio/BGM/PU-Nuclear Plant.ogg"
+dest_files=[ "res://.import/PU-Nuclear Plant.ogg-78f78bab58f64f8bbcc6bd0b42f01bbe.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

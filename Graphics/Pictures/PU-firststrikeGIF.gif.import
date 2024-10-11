@@ -1,0 +1,15 @@
+[remap]
+
+importer="gif.animated.texture.plugin"
+type="SpriteFrames"
+path="res://.import/PU-firststrikeGIF.gif-90ca5a10a07c675116cc692a3e720977.tres"
+
+[deps]
+
+source_file="res://Graphics/Pictures/PU-firststrikeGIF.gif"
+dest_files=[ "res://.import/PU-firststrikeGIF.gif-90ca5a10a07c675116cc692a3e720977.tres" ]
+
+[params]
+
+Filter=false
+MipMaps=false

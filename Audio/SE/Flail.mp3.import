@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Flail.mp3-e2267ed927693324882fd66a5623d682.mp3str"
+
+[deps]
+
+source_file="res://Audio/SE/Flail.mp3"
+dest_files=[ "res://.import/Flail.mp3-e2267ed927693324882fd66a5623d682.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

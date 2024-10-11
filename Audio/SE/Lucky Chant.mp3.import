@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Lucky Chant.mp3-5be246e0823c9a6fc368c057c8f5bf4f.mp3str"
+
+[deps]
+
+source_file="res://Audio/SE/Lucky Chant.mp3"
+dest_files=[ "res://.import/Lucky Chant.mp3-5be246e0823c9a6fc368c057c8f5bf4f.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

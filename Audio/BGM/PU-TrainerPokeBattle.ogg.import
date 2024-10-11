@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-TrainerPokeBattle.ogg-91f77133f534d1afdf676b2e8d2d2fa3.oggstr"
+
+[deps]
+
+source_file="res://Audio/BGM/PU-TrainerPokeBattle.ogg"
+dest_files=[ "res://.import/PU-TrainerPokeBattle.ogg-91f77133f534d1afdf676b2e8d2d2fa3.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

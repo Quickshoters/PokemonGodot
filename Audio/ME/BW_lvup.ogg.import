@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/BW_lvup.ogg-e63c93dfc85d7c57350cd81e93e26a38.oggstr"
+
+[deps]
+
+source_file="res://Audio/ME/BW_lvup.ogg"
+dest_files=[ "res://.import/BW_lvup.ogg-e63c93dfc85d7c57350cd81e93e26a38.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

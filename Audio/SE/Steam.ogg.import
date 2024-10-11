@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Steam.ogg-b9908b15f2b387c1b906474fce1b0973.oggstr"
+
+[deps]
+
+source_file="res://Audio/SE/Steam.ogg"
+dest_files=[ "res://.import/Steam.ogg-b9908b15f2b387c1b906474fce1b0973.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

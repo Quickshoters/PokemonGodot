@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/PU-DMKingscoff.wav-4178aa133a0b4e2f63c762a89eb1a418.sample"
+
+[deps]
+
+source_file="res://Audio/SE/PU-DMKingscoff.wav"
+dest_files=[ "res://.import/PU-DMKingscoff.wav-4178aa133a0b4e2f63c762a89eb1a418.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

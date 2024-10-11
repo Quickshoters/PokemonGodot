@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/gust.mp3-4b4696ffe04caf1eed9763291b94005e.mp3str"
+
+[deps]
+
+source_file="res://Audio/SE/gust.mp3"
+dest_files=[ "res://.import/gust.mp3-4b4696ffe04caf1eed9763291b94005e.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

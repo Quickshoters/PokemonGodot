@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Acupressure.mp3-cb46920d6fa7ab6ee4b4c590db91ad42.mp3str"
+
+[deps]
+
+source_file="res://Audio/SE/Acupressure.mp3"
+dest_files=[ "res://.import/Acupressure.mp3-cb46920d6fa7ab6ee4b4c590db91ad42.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

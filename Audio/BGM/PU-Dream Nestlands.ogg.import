@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-Dream Nestlands.ogg-ee7977cbb943f6bc6c4ff4dff2810ee7.oggstr"
+
+[deps]
+
+source_file="res://Audio/BGM/PU-Dream Nestlands.ogg"
+dest_files=[ "res://.import/PU-Dream Nestlands.ogg-ee7977cbb943f6bc6c4ff4dff2810ee7.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

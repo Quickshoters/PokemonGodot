@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-Dream Venesi.ogg-2746710d760cd46e2c184077f52423d6.oggstr"
+
+[deps]
+
+source_file="res://Audio/BGM/PU-Dream Venesi.ogg"
+dest_files=[ "res://.import/PU-Dream Venesi.ogg-2746710d760cd46e2c184077f52423d6.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-Crowd.ogg-f096a0624d5e87df1e47906f926c4c1a.oggstr"
+
+[deps]
+
+source_file="res://Audio/BGS/PU-Crowd.ogg"
+dest_files=[ "res://.import/PU-Crowd.ogg-f096a0624d5e87df1e47906f926c4c1a.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

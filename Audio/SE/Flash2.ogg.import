@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Flash2.ogg-8c99e832aa1cb9e221a23cf1fb39f5e0.oggstr"
+
+[deps]
+
+source_file="res://Audio/SE/Flash2.ogg"
+dest_files=[ "res://.import/Flash2.ogg-8c99e832aa1cb9e221a23cf1fb39f5e0.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

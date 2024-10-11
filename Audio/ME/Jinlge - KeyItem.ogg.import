@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Jinlge - KeyItem.ogg-da1042754cfd65c51f36a8b4ea7e8a97.oggstr"
+
+[deps]
+
+source_file="res://Audio/ME/Jinlge - KeyItem.ogg"
+dest_files=[ "res://.import/Jinlge - KeyItem.ogg-da1042754cfd65c51f36a8b4ea7e8a97.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

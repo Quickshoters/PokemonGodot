@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Whirlwind.mp3-e91cd7f8f5288d8d238e2042d30b1dc6.mp3str"
+
+[deps]
+
+source_file="res://Audio/SE/Whirlwind.mp3"
+dest_files=[ "res://.import/Whirlwind.mp3-e91cd7f8f5288d8d238e2042d30b1dc6.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

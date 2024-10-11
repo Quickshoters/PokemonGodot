@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Stare.ogg-87cd65b617c9bf5c15ba14bd058ad170.oggstr"
+
+[deps]
+
+source_file="res://Audio/SE/Stare.ogg"
+dest_files=[ "res://.import/Stare.ogg-87cd65b617c9bf5c15ba14bd058ad170.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

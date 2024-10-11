@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Blow6.ogg-23f706aa86bef5d2d9f8ba2c6e479018.oggstr"
+
+[deps]
+
+source_file="res://Audio/SE/Blow6.ogg"
+dest_files=[ "res://.import/Blow6.ogg-23f706aa86bef5d2d9f8ba2c6e479018.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

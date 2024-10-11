@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/PU-DModdobj.wav-c14713411fa8e7a82c1ef3d361ab340d.sample"
+
+[deps]
+
+source_file="res://Audio/SE/PU-DModdobj.wav"
+dest_files=[ "res://.import/PU-DModdobj.wav-c14713411fa8e7a82c1ef3d361ab340d.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

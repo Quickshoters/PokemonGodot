@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-Blizzard.ogg-35d3dd2a68bce3b29045297f6f373b9d.oggstr"
+
+[deps]
+
+source_file="res://Audio/BGS/PU-Blizzard.ogg"
+dest_files=[ "res://.import/PU-Blizzard.ogg-35d3dd2a68bce3b29045297f6f373b9d.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

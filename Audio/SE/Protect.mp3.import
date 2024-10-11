@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Protect.mp3-f23a8500add46d9ea70c76883b1e0ce8.mp3str"
+
+[deps]
+
+source_file="res://Audio/SE/Protect.mp3"
+dest_files=[ "res://.import/Protect.mp3-f23a8500add46d9ea70c76883b1e0ce8.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

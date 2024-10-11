@@ -1,0 +1,13 @@
+[remap]
+
+importer="gif.animated.texture.plugin"
+type="SpriteFrames"
+valid=false
+
+[deps]
+
+source_file="res://Graphics/Pictures/PU-firststrikeGIF(1).gif"
+[params]
+
+Filter=false
+MipMaps=false

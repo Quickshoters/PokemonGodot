@@ -1,0 +1,15 @@
+[remap]
+
+importer="gif.animated.texture.plugin"
+type="SpriteFrames"
+path="res://.import/003b.gif-7ec7e3e3979e3922caae000f60ea947e.tres"
+
+[deps]
+
+source_file="res://Graphics/Battlers/003b.gif"
+dest_files=[ "res://.import/003b.gif-7ec7e3e3979e3922caae000f60ea947e.tres" ]
+
+[params]
+
+Filter=false
+MipMaps=false

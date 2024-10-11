@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-WildDreamBattle.ogg-a3ce15c874010b62d6f2110afe316bf3.oggstr"
+
+[deps]
+
+source_file="res://Audio/BGM/PU-WildDreamBattle.ogg"
+dest_files=[ "res://.import/PU-WildDreamBattle.ogg-a3ce15c874010b62d6f2110afe316bf3.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-NinjaBattle.ogg-9a6efb4b9209a2166d5fc85a7f46da8e.oggstr"
+
+[deps]
+
+source_file="res://Audio/BGM/PU-NinjaBattle.ogg"
+dest_files=[ "res://.import/PU-NinjaBattle.ogg-9a6efb4b9209a2166d5fc85a7f46da8e.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

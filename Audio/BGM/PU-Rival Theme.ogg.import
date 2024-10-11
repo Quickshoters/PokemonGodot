@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-Rival Theme.ogg-909873380a1aa4b17d0a752f300d61da.oggstr"
+
+[deps]
+
+source_file="res://Audio/BGM/PU-Rival Theme.ogg"
+dest_files=[ "res://.import/PU-Rival Theme.ogg-909873380a1aa4b17d0a752f300d61da.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

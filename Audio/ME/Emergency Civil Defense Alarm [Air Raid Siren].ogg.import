@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Emergency Civil Defense Alarm [Air Raid Siren].ogg-e01d1e90e7219339b13cd592ae53160e.oggstr"
+
+[deps]
+
+source_file="res://Audio/ME/Emergency Civil Defense Alarm [Air Raid Siren].ogg"
+dest_files=[ "res://.import/Emergency Civil Defense Alarm [Air Raid Siren].ogg-e01d1e90e7219339b13cd592ae53160e.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

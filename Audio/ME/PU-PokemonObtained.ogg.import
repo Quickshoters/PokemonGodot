@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-PokemonObtained.ogg-b438c29482c2bb3d1f8bd105c8b776f3.oggstr"
+
+[deps]
+
+source_file="res://Audio/ME/PU-PokemonObtained.ogg"
+dest_files=[ "res://.import/PU-PokemonObtained.ogg-b438c29482c2bb3d1f8bd105c8b776f3.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

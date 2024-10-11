@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-Angelure Town.ogg-e37fcd9e76409147f6101dcf0cbc09ac.oggstr"
+
+[deps]
+
+source_file="res://Audio/BGM/PU-Angelure Town.ogg"
+dest_files=[ "res://.import/PU-Angelure Town.ogg-e37fcd9e76409147f6101dcf0cbc09ac.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

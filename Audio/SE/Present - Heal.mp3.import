@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Present - Heal.mp3-f61e197e79d3fcd720564fd68211fd44.mp3str"
+
+[deps]
+
+source_file="res://Audio/SE/Present - Heal.mp3"
+dest_files=[ "res://.import/Present - Heal.mp3-f61e197e79d3fcd720564fd68211fd44.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

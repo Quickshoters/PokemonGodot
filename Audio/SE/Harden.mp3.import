@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Harden.mp3-eb95d41d3a66e85da376543945d1f937.mp3str"
+
+[deps]
+
+source_file="res://Audio/SE/Harden.mp3"
+dest_files=[ "res://.import/Harden.mp3-eb95d41d3a66e85da376543945d1f937.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/flybird.wav-f0f596efe387eb1263c3b9b480a2c0f0.sample"
+
+[deps]
+
+source_file="res://Audio/SE/flybird.wav"
+dest_files=[ "res://.import/flybird.wav-f0f596efe387eb1263c3b9b480a2c0f0.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

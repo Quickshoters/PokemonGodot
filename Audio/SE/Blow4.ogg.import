@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Blow4.ogg-3fac895acc4d000f3c56cc075adf9117.oggstr"
+
+[deps]
+
+source_file="res://Audio/SE/Blow4.ogg"
+dest_files=[ "res://.import/Blow4.ogg-3fac895acc4d000f3c56cc075adf9117.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

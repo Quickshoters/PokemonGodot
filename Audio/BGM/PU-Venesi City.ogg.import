@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-Venesi City.ogg-0a860b21e0f1c613a9d0bc33a0dc1ff3.oggstr"
+
+[deps]
+
+source_file="res://Audio/BGM/PU-Venesi City.ogg"
+dest_files=[ "res://.import/PU-Venesi City.ogg-0a860b21e0f1c613a9d0bc33a0dc1ff3.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

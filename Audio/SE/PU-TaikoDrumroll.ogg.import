@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-TaikoDrumroll.ogg-4ebf5813fad11ae8a969901c2e09a650.oggstr"
+
+[deps]
+
+source_file="res://Audio/SE/PU-TaikoDrumroll.ogg"
+dest_files=[ "res://.import/PU-TaikoDrumroll.ogg-4ebf5813fad11ae8a969901c2e09a650.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

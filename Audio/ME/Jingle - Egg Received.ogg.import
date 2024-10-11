@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Jingle - Egg Received.ogg-ed8b4d6b275f036ea39ab240d5d57c03.oggstr"
+
+[deps]
+
+source_file="res://Audio/ME/Jingle - Egg Received.ogg"
+dest_files=[ "res://.import/Jingle - Egg Received.ogg-ed8b4d6b275f036ea39ab240d5d57c03.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

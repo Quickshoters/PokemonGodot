@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Dizzy Punch.mp3-404a158fc4dab860cc0dfade2088eed4.mp3str"
+
+[deps]
+
+source_file="res://Audio/SE/Dizzy Punch.mp3"
+dest_files=[ "res://.import/Dizzy Punch.mp3-404a158fc4dab860cc0dfade2088eed4.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

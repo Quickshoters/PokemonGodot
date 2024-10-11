@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-Bealbeach City.ogg-10e74171a0892a251babfad88f58baa0.oggstr"
+
+[deps]
+
+source_file="res://Audio/BGM/PU-Bealbeach City.ogg"
+dest_files=[ "res://.import/PU-Bealbeach City.ogg-10e74171a0892a251babfad88f58baa0.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

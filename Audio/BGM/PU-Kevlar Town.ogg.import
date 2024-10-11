@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-Kevlar Town.ogg-16e3816184de385d232e9c11f02c9db7.oggstr"
+
+[deps]
+
+source_file="res://Audio/BGM/PU-Kevlar Town.ogg"
+dest_files=[ "res://.import/PU-Kevlar Town.ogg-16e3816184de385d232e9c11f02c9db7.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

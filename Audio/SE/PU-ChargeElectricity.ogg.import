@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-ChargeElectricity.ogg-a7738e09464ce3239bb911ab9eedc1e8.oggstr"
+
+[deps]
+
+source_file="res://Audio/SE/PU-ChargeElectricity.ogg"
+dest_files=[ "res://.import/PU-ChargeElectricity.ogg-a7738e09464ce3239bb911ab9eedc1e8.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

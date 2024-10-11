@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-PirateTheme.ogg-a378e018696404e06b631ec2c6a2d2df.oggstr"
+
+[deps]
+
+source_file="res://Audio/BGM/PU-PirateTheme.ogg"
+dest_files=[ "res://.import/PU-PirateTheme.ogg-a378e018696404e06b631ec2c6a2d2df.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

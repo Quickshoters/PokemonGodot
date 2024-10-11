@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/PU-PokeradarShiny.wav-a163bd95d4cbaa0ba72d3edbaaade8c3.sample"
+
+[deps]
+
+source_file="res://Audio/SE/PU-PokeradarShiny.wav"
+dest_files=[ "res://.import/PU-PokeradarShiny.wav-a163bd95d4cbaa0ba72d3edbaaade8c3.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

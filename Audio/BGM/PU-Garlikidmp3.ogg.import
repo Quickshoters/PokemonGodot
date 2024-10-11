@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-Garlikidmp3.ogg-7a1646a43b0c51e591aedfd1f5b67605.oggstr"
+
+[deps]
+
+source_file="res://Audio/BGM/PU-Garlikidmp3.ogg"
+dest_files=[ "res://.import/PU-Garlikidmp3.ogg-7a1646a43b0c51e591aedfd1f5b67605.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Slash5.ogg-5f5504565d35dd8f3386f97bb766217e.oggstr"
+
+[deps]
+
+source_file="res://Audio/SE/Slash5.ogg"
+dest_files=[ "res://.import/Slash5.ogg-5f5504565d35dd8f3386f97bb766217e.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

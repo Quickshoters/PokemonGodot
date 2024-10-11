@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-CurieUrayneBattle.ogg-dc8519bc62ad80a9867a507952410bbb.oggstr"
+
+[deps]
+
+source_file="res://Audio/BGM/PU-CurieUrayneBattle.ogg"
+dest_files=[ "res://.import/PU-CurieUrayneBattle.ogg-dc8519bc62ad80a9867a507952410bbb.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

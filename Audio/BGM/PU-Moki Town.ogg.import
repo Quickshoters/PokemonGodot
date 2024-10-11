@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-Moki Town.ogg-31615d5c29c103cab3ac2ee913dae1c5.oggstr"
+
+[deps]
+
+source_file="res://Audio/BGM/PU-Moki Town.ogg"
+dest_files=[ "res://.import/PU-Moki Town.ogg-31615d5c29c103cab3ac2ee913dae1c5.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

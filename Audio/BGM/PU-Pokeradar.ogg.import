@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-Pokeradar.ogg-94762d2134f58bdef9c2fa2e73cc6060.oggstr"
+
+[deps]
+
+source_file="res://Audio/BGM/PU-Pokeradar.ogg"
+dest_files=[ "res://.import/PU-Pokeradar.ogg-94762d2134f58bdef9c2fa2e73cc6060.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

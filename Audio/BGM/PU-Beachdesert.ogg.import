@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-Beachdesert.ogg-5fd8b57ce31d7d38f3127b070fc22333.oggstr"
+
+[deps]
+
+source_file="res://Audio/BGM/PU-Beachdesert.ogg"
+dest_files=[ "res://.import/PU-Beachdesert.ogg-5fd8b57ce31d7d38f3127b070fc22333.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

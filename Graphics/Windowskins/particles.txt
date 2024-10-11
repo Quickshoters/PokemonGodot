@@ -1,0 +1,242 @@
+def ParticleEffect
+ def initialize
+  self.x=0
+  self.y=0
+  self.z=0
+ end
+ def update
+ end
+ def dispose
+ end
+end
+
+def ParticleEffect_Event
+ def initialize(event,viewport=nil)
+  @event=event
+  @viewport=viewport
+  self.x=event.screen_x
+  self.y=event.screen_y
+  self.z=event.screen_z
+ end
+ def setParameters(params)
+  @randomhue,@leftright,@fade,
+    @maxparticless,@hue,
+    @slowdown,@ytop,@ybottom,
+    @xleft,@xright,@xgravity,
+    @ygravity,@xoffset,@yoffset,@opacityvar,@originalopacity=params
+ end
+ def initParticles(filename,opacity,zOffset=0,blendtype=1)
+  @particles = []     
+  @opacity = []  
+  @startingx = self.x + @xoffset
+  @startingy = self.y + @yoffset
+  @screen_x = self.x 
+  @screen_y = self.y
+  @filename=filename
+  for i in 0...@maxparticless
+   @particles[i] = Sprite.new(@viewport)
+   @particles[i].bitmap = RPG::Cache.fog(filename, @hue)
+   @particles[i].blend_type = blendtype
+   @particles[i].y = @startingy
+   @particles[i].x = @startingx
+   @particles[i].z = self.z+zOffset
+   @opacity[i] = opacity
+  end
+ end
+ def update
+  self.x=event.screen_x
+  self.y=event.screen_y
+  self.z=event.screen_z
+  @startingx = self.x + @xoffset
+  @startingy = self.y + @yoffset
+  offsetx = self.x - @screen_x
+  @screen_x = self.x
+  offsety = self.y - @screen_y
+  @screen_y = self.y
+  for i in 0...@maxparticless
+          @particles[i].z = self.z
+          if @particles[i].y <= @ytop
+            @particles[i].y = @startingy + @yoffset
+            @particles[i].x = @startingx + @xoffset
+  end
+  if @particles[i].x <= @xleft
+            @particles[i].y = @startingy + @yoffset
+            @particles[i].x = @startingx + @xoffset
+  end
+          if @particles[i].y >= @ybottom
+            @particles[i].y = @startingy + @yoffset
+            @particles[i].x = @startingx + @xoffset
+          end
+          if @particles[i].x >= @xright
+            @particles[i].y = @startingy + @yoffset
+            @particles[i].x = @startingx + @xoffset
+          end           
+          if @fade == 0
+            if @opacity[i] <= 0
+              @opacity[i] = @originalopacity
+              @particles[i].y = @startingy + @yoffset
+              @particles[i].x = @startingx + @xoffset
+            end  
+          else
+            if @opacity[i] <= 0
+              @opacity[i] = 250
+              @particles[i].y = @startingy + @yoffset
+              @particles[i].x = @startingx + @xoffset
+            end  
+          end
+          if @randomhue == 1
+            if @hue >= 360
+              @hue = 0
+            end
+            @hue = @hue + 0.5
+            @particles[i].bitmap = RPG::Cache.fog(@filename, @hue)
+          end
+          @opacity[i] = @opacity[i] - rand(@opacityvar)
+          @leftright = rand(2)
+          if @leftright == 1
+            @particles[i].x = (@particles[i].x - (@xgravity / @slowdown)) + offsetx
+          else
+            @particles[i].x = (@particles[i].x + (@xgravity / @slowdown)) + offsetx
+          end
+          @particles[i].y = (@particles[i].y - (@ygravity / @slowdown)) + offsety
+          @particles[i].opacity = @opacity[i]
+        end
+ end
+ def dispose
+  for particle in @particles
+   particle.dispose 
+  end
+  @particles = []
+ end
+end
+
+class ParticleEngine::Fire < ParticleEffect_Event
+ def initialize(event,viewport)
+  super
+  setParameters([0,0,1,20,40,0.5,0,480,0,640,0.5,0.10,-5,-13,2,0])
+  initParticles("particle",250)
+ end
+end
+
+class ParticleEngine::Smoke < ParticleEffect_Event
+ def initialize(event,viewport)
+  super
+  setParameters([0,0,0,80,20,0,0.5,0,480,0,640,0.5,0.10,-5,-15,5,80])
+  initParticles("smoke",100)
+ end
+end
+
+class ParticleEngine::Teleport < ParticleEffect_Event
+ def initialize(event,viewport)
+  super
+  setParameters([1,1,1,10,rand(360),1,0,480,0,640,0,3,-8,-15,20,0])
+  initParticles("portal",250)
+ end
+end
+
+class ParticleEngine::Spirit < ParticleEffect_Event
+ def initialize(event,viewport)
+  super
+  setParameters([1,0,1,20,rand(360),0.5,
+         0,480,0,640,
+         0.5,0.10,-5,-13,30,0])
+  initParticles("particle",250)
+ end
+ def update
+  @screen_x=@event.screen_x
+  @screen_y=@event.screen_y
+  super
+ end
+end
+
+class ParticleEngine::Explosion < ParticleEffect_Event
+ def initialize(event,viewport)
+  super
+  setParameters([0,0,1,20,0,0.5,
+         0,480,0,640,
+         0.5,0.10,-5,-13,30,0])
+  initParticles("explosion",250)
+ end
+end
+
+class ParticleEngine::Aura < ParticleEffect_Event
+ def initialize(event,viewport)
+  super
+  setParameters([0,0,1,20,0,1,
+         0,480,0,640,
+         2,2,-5,-13,30,0])
+  initParticles("particle",250)
+ end
+end
+
+# Effect by BlueScope
+class ParticleEngine::Soot < ParticleEffect_Event
+ def initialize(event,viewport)
+  super
+  setParameters([0,0,0,20,0,0.5,
+         0,480,0,640,
+         0.5,0.10,-5,-15,5,
+         80])
+  initParticles("smoke",100,0,2)
+ end
+end
+
+# Effect by BlueScope
+class ParticleEngine::SootSmoke < ParticleEffect_Event
+ def initialize(event,viewport)
+  super
+  setParameters([0,0,0,30,0,0.5,
+         0,480,0,640,
+         0.5,0.10,-5,-15,5,
+         80])
+  initParticles("smoke",100,0)
+  for i in 0...@maxparticless
+   @particles[i].blend_type = rand(6) < 3 ? 1 : 2
+  end
+ end
+end
+
+# Effect by BlueScope
+class ParticleEngine::Rocket < ParticleEffect_Event
+ def initialize(event,viewport)
+  super
+  setParameters([0,0,0,60,0,0.5,
+         0,480,0,640,
+         0.5,0,-5,-15,5,
+         80])
+  initParticles("smoke",100,-1)
+ end
+ def update
+  @screen_x=@event.screen_x
+  @screen_y=@event.screen_y
+  super
+ end
+end
+
+class ParticleEngine::FixedTeleport < ParticleEffect_Event
+ def initialize(event,viewport)
+  super
+  setParameters([1,0,1,10,rand(360),1,-480,480,0,640,0,3,-8,-15,20,0])
+  initParticles("portal",250)
+ end
+end
+
+class ParticleEngine::Flare < ParticleEffect_Event
+ def initialize(event,viewport)
+  super
+  setParameters([0,0,1,30,10,1,
+         0,480,0,640,
+         2,2,-5,-12,30,0])
+  initParticles("particle",255)
+ end
+end
+
+class ParticleEngine::Splash < ParticleEffect_Event
+ def initialize(event,viewport)
+  super
+  setParameters([0,0,1,30,255,1,
+         0,480,0,640,
+         4,2,-5,-12,0,0])
+  initParticles("particle",50)
+ end
+end

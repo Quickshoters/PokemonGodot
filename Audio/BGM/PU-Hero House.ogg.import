@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-Hero House.ogg-3906c77a9d5688bcc9abc2732673dcfd.oggstr"
+
+[deps]
+
+source_file="res://Audio/BGM/PU-Hero House.ogg"
+dest_files=[ "res://.import/PU-Hero House.ogg-3906c77a9d5688bcc9abc2732673dcfd.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-LegendaryBattle.ogg-10cb25f92978b44a0be65b2f77489954.oggstr"
+
+[deps]
+
+source_file="res://Audio/BGM/PU-LegendaryBattle.ogg"
+dest_files=[ "res://.import/PU-LegendaryBattle.ogg-10cb25f92978b44a0be65b2f77489954.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Flee.ogg-b4d9ac82d28751a360a3b58bb2d23325.oggstr"
+
+[deps]
+
+source_file="res://Audio/BGS/Flee.ogg"
+dest_files=[ "res://.import/Flee.ogg-b4d9ac82d28751a360a3b58bb2d23325.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

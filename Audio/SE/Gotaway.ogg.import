@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Gotaway.ogg-bab5d97c67f398f74d243b03a0ff76b0.oggstr"
+
+[deps]
+
+source_file="res://Audio/SE/Gotaway.ogg"
+dest_files=[ "res://.import/Gotaway.ogg-bab5d97c67f398f74d243b03a0ff76b0.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

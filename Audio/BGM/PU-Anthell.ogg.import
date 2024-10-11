@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-Anthell.ogg-c0b46bc938f12fc934bbbac28238da82.oggstr"
+
+[deps]
+
+source_file="res://Audio/BGM/PU-Anthell.ogg"
+dest_files=[ "res://.import/PU-Anthell.ogg-c0b46bc938f12fc934bbbac28238da82.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

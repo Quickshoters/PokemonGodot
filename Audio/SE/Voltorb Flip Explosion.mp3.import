@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Voltorb Flip Explosion.mp3-8c50fa80b137d368a80069ffbff1c028.mp3str"
+
+[deps]
+
+source_file="res://Audio/SE/Voltorb Flip Explosion.mp3"
+dest_files=[ "res://.import/Voltorb Flip Explosion.mp3-8c50fa80b137d368a80069ffbff1c028.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

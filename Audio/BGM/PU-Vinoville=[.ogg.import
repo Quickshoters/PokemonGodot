@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-Vinoville=[.ogg-4df4745811ef73de4b2d6fb095fdf198.oggstr"
+
+[deps]
+
+source_file="res://Audio/BGM/PU-Vinoville=[.ogg"
+dest_files=[ "res://.import/PU-Vinoville=[.ogg-4df4745811ef73de4b2d6fb095fdf198.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

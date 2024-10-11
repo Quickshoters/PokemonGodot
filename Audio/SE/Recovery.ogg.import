@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Recovery.ogg-62d193b820755a93792c2866baaefdcc.oggstr"
+
+[deps]
+
+source_file="res://Audio/SE/Recovery.ogg"
+dest_files=[ "res://.import/Recovery.ogg-62d193b820755a93792c2866baaefdcc.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

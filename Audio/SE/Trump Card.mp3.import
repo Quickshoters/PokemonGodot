@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Trump Card.mp3-44f5ea0f5105533f429741923adfb8a0.mp3str"
+
+[deps]
+
+source_file="res://Audio/SE/Trump Card.mp3"
+dest_files=[ "res://.import/Trump Card.mp3-44f5ea0f5105533f429741923adfb8a0.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

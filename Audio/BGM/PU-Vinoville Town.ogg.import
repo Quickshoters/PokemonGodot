@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-Vinoville Town.ogg-470618d636baff3c6aead097b4c76bf4.oggstr"
+
+[deps]
+
+source_file="res://Audio/BGM/PU-Vinoville Town.ogg"
+dest_files=[ "res://.import/PU-Vinoville Town.ogg-470618d636baff3c6aead097b4c76bf4.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

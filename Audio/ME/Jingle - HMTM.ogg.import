@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Jingle - HMTM.ogg-e281a34db6b053732484dd9e1eb8b37c.oggstr"
+
+[deps]
+
+source_file="res://Audio/ME/Jingle - HMTM.ogg"
+dest_files=[ "res://.import/Jingle - HMTM.ogg-e281a34db6b053732484dd9e1eb8b37c.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

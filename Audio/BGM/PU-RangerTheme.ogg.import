@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-RangerTheme.ogg-d58f5c48aa520138f59633b8575581e4.oggstr"
+
+[deps]
+
+source_file="res://Audio/BGM/PU-RangerTheme.ogg"
+dest_files=[ "res://.import/PU-RangerTheme.ogg-d58f5c48aa520138f59633b8575581e4.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

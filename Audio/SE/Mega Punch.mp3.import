@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Mega Punch.mp3-9b11b32da82b49edd4799b2149d5b671.mp3str"
+
+[deps]
+
+source_file="res://Audio/SE/Mega Punch.mp3"
+dest_files=[ "res://.import/Mega Punch.mp3-9b11b32da82b49edd4799b2149d5b671.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

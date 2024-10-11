@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-Online.ogg-a4fcf2201254250f292841ff1218a2ee.oggstr"
+
+[deps]
+
+source_file="res://Audio/BGM/PU-Online.ogg"
+dest_files=[ "res://.import/PU-Online.ogg-a4fcf2201254250f292841ff1218a2ee.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

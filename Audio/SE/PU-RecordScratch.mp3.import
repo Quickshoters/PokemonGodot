@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/PU-RecordScratch.mp3-929f60c99a85c91fd36b73758c674524.mp3str"
+
+[deps]
+
+source_file="res://Audio/SE/PU-RecordScratch.mp3"
+dest_files=[ "res://.import/PU-RecordScratch.mp3-929f60c99a85c91fd36b73758c674524.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Follow Me.mp3-b50edb1e9701d182142c7fa2a2faebc7.mp3str"
+
+[deps]
+
+source_file="res://Audio/SE/Follow Me.mp3"
+dest_files=[ "res://.import/Follow Me.mp3-b50edb1e9701d182142c7fa2a2faebc7.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

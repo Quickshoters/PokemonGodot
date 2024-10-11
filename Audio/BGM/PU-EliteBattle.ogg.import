@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-EliteBattle.ogg-f99d19399698e6c192660435ec2b4d5c.oggstr"
+
+[deps]
+
+source_file="res://Audio/BGM/PU-EliteBattle.ogg"
+dest_files=[ "res://.import/PU-EliteBattle.ogg-f99d19399698e6c192660435ec2b4d5c.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

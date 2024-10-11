@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/notverydamage.wav-5f8d7e0fc5b044ff70c02f179037c1b3.sample"
+
+[deps]
+
+source_file="res://Audio/SE/notverydamage.wav"
+dest_files=[ "res://.import/notverydamage.wav-5f8d7e0fc5b044ff70c02f179037c1b3.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

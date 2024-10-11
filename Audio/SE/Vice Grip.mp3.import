@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Vice Grip.mp3-77d8d2d438e945fbd2ed136ef3485d77.mp3str"
+
+[deps]
+
+source_file="res://Audio/SE/Vice Grip.mp3"
+dest_files=[ "res://.import/Vice Grip.mp3-77d8d2d438e945fbd2ed136ef3485d77.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/181Cry.wav-1fb9df342488d5bd7919660859730071.sample"
+
+[deps]
+
+source_file="res://Audio/SE/181Cry.wav"
+dest_files=[ "res://.import/181Cry.wav-1fb9df342488d5bd7919660859730071.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Work Up.mp3-5289412b79ad81ab2a0d733d388e5abe.mp3str"
+
+[deps]
+
+source_file="res://Audio/SE/Work Up.mp3"
+dest_files=[ "res://.import/Work Up.mp3-5289412b79ad81ab2a0d733d388e5abe.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

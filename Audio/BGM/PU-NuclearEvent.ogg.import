@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-NuclearEvent.ogg-b917fac16a3e5828341fc62df44caf77.oggstr"
+
+[deps]
+
+source_file="res://Audio/BGM/PU-NuclearEvent.ogg"
+dest_files=[ "res://.import/PU-NuclearEvent.ogg-b917fac16a3e5828341fc62df44caf77.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

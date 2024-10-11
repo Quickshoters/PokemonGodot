@@ -1,0 +1,36 @@
+[gd_resource type="Resource" load_steps=2 format=2]
+
+[ext_resource path="res://Utilities/Save/State.gd" type="Script" id=1]
+
+[resource]
+script = ExtResource( 1 )
+game_version = ""
+data = {
+"": {
+"TrainerGender": 0,
+"TrainerName": "jgh",
+"badges": 0,
+"can_run": true,
+"inventory": [ [ 211, 3 ] ],
+"past_events": [ "EVENT_HEROHOME_1", "EVENT_HEROHOME_NPC_AUNT_1", "EVENT_MOKI_TOWN_THEO_1", "EVENT_MOKI_LAB_GOT_RAPTORCH", "EVENT_BAMBOLAB_1_PICK_UP_ENABLE", "EVENT_BAMBOLAB_1_WIN", "EVENT_BAMBOLAB_1_COMPLETE", "EVENT_MOKI_TOWN_THEO_HOME_1", "EVENT_MOKI_TOWN_DEMO" ],
+"pokedex_caught": [ 3, 7 ],
+"pokedex_seen": [ 3, 1, 7 ],
+"pokemon_group": [ Object(Object,"script":Resource( "res://Utilities/Battle/Classes/Pokemon.gd" ),"name":"Raptorch","ID":3,"type1":10,"type2":4,"current_hp":20,"hp":20,"attack":9,"defense":9,"sp_attack":12,"sp_defense":11,"speed":12,"level":5,"experience":200,"nature":21,"ability":null,"hidden_ability":null,"major_ailment":null,"iv_hp":29,"iv_attack":19,"iv_defense":6,"iv_sp_attack":24,"iv_sp_defense":2,"iv_speed":11,"ev_hp":0,"ev_attack":0,"ev_defense":0,"ev_sp_attack":1,"ev_sp_defense":0,"ev_speed":0,"item":null,"move_1":Object(Object,"script":Resource( "res://Utilities/Battle/Classes/Move.gd" ),"name":"Scratch","type":0,"style":0,"base_power":40,"accuracy":100,"priority":0,"critical_hit_level":1,"secondary_effect_chance":null,"secondary_effect":null,"flags":null,"total_pp":35,"remaining_pp":35,"target_ability":0,"main_status_effect":null,"description":null)
+,"move_2":Object(Object,"script":Resource( "res://Utilities/Battle/Classes/Move.gd" ),"name":"Growl","type":0,"style":2,"base_power":null,"accuracy":100,"priority":0,"critical_hit_level":0,"secondary_effect_chance":null,"secondary_effect":null,"flags":[  ],"total_pp":40,"remaining_pp":40,"target_ability":1,"main_status_effect":Object(Object,"script":null)
+,"description":null)
+,"move_3":Object(Object,"script":Resource( "res://Utilities/Battle/Classes/Move.gd" ),"name":"Ember","type":10,"style":1,"base_power":40,"accuracy":100,"priority":0,"critical_hit_level":1,"secondary_effect_chance":0.1,"secondary_effect":null,"flags":[  ],"total_pp":25,"remaining_pp":23,"target_ability":0,"main_status_effect":null,"description":null)
+,"move_4":null,"gender":0,"is_shiny":false,"weight":10.5)
+, Object(Object,"script":Resource( "res://Utilities/Battle/Classes/Pokemon.gd" ),"name":"Chyinmunk","ID":7,"type1":0,"type2":null,"current_hp":8,"hp":17,"attack":8,"defense":11,"sp_attack":10,"sp_defense":8,"speed":9,"level":4,"experience":64,"nature":9,"ability":null,"hidden_ability":null,"major_ailment":null,"iv_hp":15,"iv_attack":10,"iv_defense":30,"iv_sp_attack":29,"iv_sp_defense":20,"iv_speed":4,"ev_hp":0,"ev_attack":0,"ev_defense":0,"ev_sp_attack":0,"ev_sp_defense":0,"ev_speed":0,"item":null,"move_1":Object(Object,"script":Resource( "res://Utilities/Battle/Classes/Move.gd" ),"name":"Growl","type":0,"style":2,"base_power":null,"accuracy":100,"priority":0,"critical_hit_level":0,"secondary_effect_chance":null,"secondary_effect":null,"flags":[  ],"total_pp":40,"remaining_pp":37,"target_ability":1,"main_status_effect":Object(Object,"script":Resource( "res://Utilities/Battle/Classes/StatStageEffect.gd" ),"attack":-1,"defense":0,"sp_attack":0,"sp_defense":0,"speed":0,"accuracy":0,"evasion":0)
+,"description":null)
+,"move_2":Object(Object,"script":Resource( "res://Utilities/Battle/Classes/Move.gd" ),"name":"Tackle","type":0,"style":0,"base_power":50,"accuracy":100,"priority":0,"critical_hit_level":1,"secondary_effect_chance":null,"secondary_effect":null,"flags":[  ],"total_pp":35,"remaining_pp":35,"target_ability":0,"main_status_effect":null,"description":null)
+,"move_3":null,"move_4":null,"gender":1,"is_shiny":false,"weight":null)
+ ],
+"time": 68
+},
+"res://Game.tscn": {
+"current_scene": "res://Maps/MokiTown/Moki Town.tscn",
+"last_heal_point": null,
+"player_direction": 1,
+"player_position": Vector2( 368, 1488 )
+}
+}

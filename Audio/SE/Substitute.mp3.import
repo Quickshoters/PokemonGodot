@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Substitute.mp3-b298c46dacef8144768e28c8e41b7ee8.mp3str"
+
+[deps]
+
+source_file="res://Audio/SE/Substitute.mp3"
+dest_files=[ "res://.import/Substitute.mp3-b298c46dacef8144768e28c8e41b7ee8.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

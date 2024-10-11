@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/SE_Zoom3.wav-e9d9a098c0b914d6fd89d2c5e6447688.sample"
+
+[deps]
+
+source_file="res://Audio/SE/SE_Zoom3.wav"
+dest_files=[ "res://.import/SE_Zoom3.wav-e9d9a098c0b914d6fd89d2c5e6447688.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

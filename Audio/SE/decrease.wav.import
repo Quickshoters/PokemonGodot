@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/decrease.wav-14ba086b5fd97a2ef471d13e646a52ee.sample"
+
+[deps]
+
+source_file="res://Audio/SE/decrease.wav"
+dest_files=[ "res://.import/decrease.wav-14ba086b5fd97a2ef471d13e646a52ee.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/072Cry.wav-3d57eb69b7d4b9d4fc6f2a6aa08f7836.sample"
+
+[deps]
+
+source_file="res://Audio/SE/072Cry.wav"
+dest_files=[ "res://.import/072Cry.wav-3d57eb69b7d4b9d4fc6f2a6aa08f7836.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

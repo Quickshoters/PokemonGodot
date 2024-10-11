@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-CoolHikerFisherEncounter.ogg-e91fa26af6e377a0bca9d7d53c2abf63.oggstr"
+
+[deps]
+
+source_file="res://Audio/ME/PU-CoolHikerFisherEncounter.ogg"
+dest_files=[ "res://.import/PU-CoolHikerFisherEncounter.ogg-e91fa26af6e377a0bca9d7d53c2abf63.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

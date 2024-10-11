@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-Radio_ Oak.ogg-19b3a5b738a7f608250a6dc56e22ffd7.oggstr"
+
+[deps]
+
+source_file="res://Audio/BGM/PU-Radio_ Oak.ogg"
+dest_files=[ "res://.import/PU-Radio_ Oak.ogg-19b3a5b738a7f608250a6dc56e22ffd7.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

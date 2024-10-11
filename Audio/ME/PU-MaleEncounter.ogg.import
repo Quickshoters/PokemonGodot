@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-MaleEncounter.ogg-8615b1bd734ac478047009fe9d0eff08.oggstr"
+
+[deps]
+
+source_file="res://Audio/ME/PU-MaleEncounter.ogg"
+dest_files=[ "res://.import/PU-MaleEncounter.ogg-8615b1bd734ac478047009fe9d0eff08.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

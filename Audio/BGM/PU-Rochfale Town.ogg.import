@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-Rochfale Town.ogg-f202135f84773568b90ad96691d186a9.oggstr"
+
+[deps]
+
+source_file="res://Audio/BGM/PU-Rochfale Town.ogg"
+dest_files=[ "res://.import/PU-Rochfale Town.ogg-f202135f84773568b90ad96691d186a9.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

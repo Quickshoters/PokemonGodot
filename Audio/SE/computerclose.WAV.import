@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/computerclose.WAV-30bb7a56d3b3b90971bf9e9e0ab1104f.sample"
+
+[deps]
+
+source_file="res://Audio/SE/computerclose.WAV"
+dest_files=[ "res://.import/computerclose.WAV-30bb7a56d3b3b90971bf9e9e0ab1104f.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

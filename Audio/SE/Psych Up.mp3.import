@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Psych Up.mp3-f3dcebb51955e8998ce4738f8467cc01.mp3str"
+
+[deps]
+
+source_file="res://Audio/SE/Psych Up.mp3"
+dest_files=[ "res://.import/Psych Up.mp3-f3dcebb51955e8998ce4738f8467cc01.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

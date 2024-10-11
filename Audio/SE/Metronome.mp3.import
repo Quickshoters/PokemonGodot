@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Metronome.mp3-6c7f44b32564b194224c28d5a74e3403.mp3str"
+
+[deps]
+
+source_file="res://Audio/SE/Metronome.mp3"
+dest_files=[ "res://.import/Metronome.mp3-6c7f44b32564b194224c28d5a74e3403.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

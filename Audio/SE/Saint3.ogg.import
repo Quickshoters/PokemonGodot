@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Saint3.ogg-2783adc54c5f6bb699e9d48bd40f38ba.oggstr"
+
+[deps]
+
+source_file="res://Audio/SE/Saint3.ogg"
+dest_files=[ "res://.import/Saint3.ogg-2783adc54c5f6bb699e9d48bd40f38ba.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/fog2.mp3-d5f042bb6139f80e2a8fb83b076b4f14.mp3str"
+
+[deps]
+
+source_file="res://Audio/SE/fog2.mp3"
+dest_files=[ "res://.import/fog2.mp3-d5f042bb6139f80e2a8fb83b076b4f14.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

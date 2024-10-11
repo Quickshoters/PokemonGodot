@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-mistery.ogg-f2d86e5b4496a22d135a5eae24d052aa.oggstr"
+
+[deps]
+
+source_file="res://Audio/BGM/PU-mistery.ogg"
+dest_files=[ "res://.import/PU-mistery.ogg-f2d86e5b4496a22d135a5eae24d052aa.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

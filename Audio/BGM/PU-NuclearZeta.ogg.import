@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-NuclearZeta.ogg-f5562d1a92635904ad9a9e859a524245.oggstr"
+
+[deps]
+
+source_file="res://Audio/BGM/PU-NuclearZeta.ogg"
+dest_files=[ "res://.import/PU-NuclearZeta.ogg-f5562d1a92635904ad9a9e859a524245.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

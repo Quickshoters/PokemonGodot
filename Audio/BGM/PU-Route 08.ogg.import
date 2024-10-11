@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-Route 08.ogg-d20a39509aaad6e7dd6aa30873604630.oggstr"
+
+[deps]
+
+source_file="res://Audio/BGM/PU-Route 08.ogg"
+dest_files=[ "res://.import/PU-Route 08.ogg-d20a39509aaad6e7dd6aa30873604630.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

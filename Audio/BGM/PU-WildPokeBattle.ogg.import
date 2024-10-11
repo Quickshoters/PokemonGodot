@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-WildPokeBattle.ogg-789f2ab254717d6ac3b431ee1d86bd61.oggstr"
+
+[deps]
+
+source_file="res://Audio/BGM/PU-WildPokeBattle.ogg"
+dest_files=[ "res://.import/PU-WildPokeBattle.ogg-789f2ab254717d6ac3b431ee1d86bd61.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

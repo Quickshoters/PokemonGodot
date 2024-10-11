@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-Burole City.ogg-ccf7b720c4ec8241cefae8ec78fa133e.oggstr"
+
+[deps]
+
+source_file="res://Audio/BGM/PU-Burole City.ogg"
+dest_files=[ "res://.import/PU-Burole City.ogg-ccf7b720c4ec8241cefae8ec78fa133e.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

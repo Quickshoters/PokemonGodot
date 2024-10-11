@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-GymBattle.ogg-add3346bc31346e6b681bbbffa5a2fc8.oggstr"
+
+[deps]
+
+source_file="res://Audio/BGM/PU-GymBattle.ogg"
+dest_files=[ "res://.import/PU-GymBattle.ogg-add3346bc31346e6b681bbbffa5a2fc8.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

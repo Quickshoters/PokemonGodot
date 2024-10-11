@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Psycho Cut.wav-c7e23e21d6bf9f654d872f9c4fbf1ca4.sample"
+
+[deps]
+
+source_file="res://Audio/SE/Psycho Cut.wav"
+dest_files=[ "res://.import/Psycho Cut.wav-c7e23e21d6bf9f654d872f9c4fbf1ca4.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

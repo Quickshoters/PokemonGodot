@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Scary Face.mp3-3fcb66d3637de1e6a114f33058858a8e.mp3str"
+
+[deps]
+
+source_file="res://Audio/SE/Scary Face.mp3"
+dest_files=[ "res://.import/Scary Face.mp3-3fcb66d3637de1e6a114f33058858a8e.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

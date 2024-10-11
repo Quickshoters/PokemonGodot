@@ -1,0 +1,410 @@
+[gd_scene load_steps=26 format=2]
+
+[ext_resource path="res://Utilities/Player.gd" type="Script" id=1]
+[ext_resource path="res://Audio/SE/bump.WAV" type="AudioStream" id=2]
+[ext_resource path="res://Graphics/Characters/HERO.png" type="Texture" id=3]
+[ext_resource path="res://Graphics/Autotiles/Tall Grass2.png" type="Texture" id=4]
+[ext_resource path="res://Utilities/follow.gd" type="Script" id=5]
+
+[sub_resource type="Animation" id=1]
+length = 0.25
+step = 0.01
+tracks/0/type = "value"
+tracks/0/path = NodePath("Position2D/Sprite:frame")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 0.13 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 1,
+"values": [ 0, 1 ]
+}
+
+[sub_resource type="Animation" id=2]
+length = 0.25
+step = 0.05
+tracks/0/type = "value"
+tracks/0/path = NodePath("Position2D/Sprite:frame")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 0.13 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 1,
+"values": [ 0, 3 ]
+}
+
+[sub_resource type="Animation" id=3]
+length = 0.125
+step = 0.05
+tracks/0/type = "value"
+tracks/0/path = NodePath("Position2D/Sprite:frame")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 0.06 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 1,
+"values": [ 0, 1 ]
+}
+
+[sub_resource type="Animation" id=4]
+length = 0.125
+tracks/0/type = "value"
+tracks/0/path = NodePath("Position2D/Sprite:frame")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 0.06 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 1,
+"values": [ 2, 3 ]
+}
+
+[sub_resource type="Animation" id=5]
+resource_name = "Jump"
+length = 0.3
+tracks/0/type = "value"
+tracks/0/path = NodePath("Position2D/Sprite:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 0.15, 0.3 ),
+"transitions": PoolRealArray( 1, 1, 1 ),
+"update": 0,
+"values": [ Vector2( 1, -16 ), Vector2( 1, -26 ), Vector2( 1, -16 ) ]
+}
+
+[sub_resource type="Animation" id=6]
+length = 0.25
+step = 0.05
+tracks/0/type = "value"
+tracks/0/path = NodePath("Position2D/Sprite:frame")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 0.13 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 1,
+"values": [ 4, 5 ]
+}
+
+[sub_resource type="Animation" id=7]
+length = 0.25
+step = 0.05
+tracks/0/type = "value"
+tracks/0/path = NodePath("Position2D/Sprite:frame")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 0.13 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 1,
+"values": [ 4, 7 ]
+}
+
+[sub_resource type="Animation" id=8]
+length = 0.125
+tracks/0/type = "value"
+tracks/0/path = NodePath("Position2D/Sprite:frame")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 0.06 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 1,
+"values": [ 4, 5 ]
+}
+
+[sub_resource type="Animation" id=9]
+length = 0.125
+tracks/0/type = "value"
+tracks/0/path = NodePath("Position2D/Sprite:frame")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 0.06 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 1,
+"values": [ 6, 7 ]
+}
+
+[sub_resource type="Animation" id=10]
+length = 0.25
+step = 0.05
+tracks/0/type = "value"
+tracks/0/path = NodePath("Position2D/Sprite:frame")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 0.13 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 1,
+"values": [ 8, 9 ]
+}
+
+[sub_resource type="Animation" id=11]
+length = 0.25
+step = 0.05
+tracks/0/type = "value"
+tracks/0/path = NodePath("Position2D/Sprite:frame")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 0.13 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 1,
+"values": [ 8, 11 ]
+}
+
+[sub_resource type="Animation" id=12]
+length = 0.125
+tracks/0/type = "value"
+tracks/0/path = NodePath("Position2D/Sprite:frame")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 0.06 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 1,
+"values": [ 8, 9 ]
+}
+
+[sub_resource type="Animation" id=13]
+length = 0.125
+tracks/0/type = "value"
+tracks/0/path = NodePath("Position2D/Sprite:frame")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 0.06 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 1,
+"values": [ 10, 11 ]
+}
+
+[sub_resource type="Animation" id=14]
+length = 0.25
+step = 0.05
+tracks/0/type = "value"
+tracks/0/path = NodePath("Position2D/Sprite:frame")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 0.13 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 1,
+"values": [ 12, 13 ]
+}
+
+[sub_resource type="Animation" id=15]
+length = 0.25
+step = 0.05
+tracks/0/type = "value"
+tracks/0/path = NodePath("Position2D/Sprite:frame")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 0.13 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 1,
+"values": [ 12, 15 ]
+}
+
+[sub_resource type="Animation" id=16]
+length = 0.125
+tracks/0/type = "value"
+tracks/0/path = NodePath("Position2D/Sprite:frame")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 0.06 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 1,
+"values": [ 12, 13 ]
+}
+
+[sub_resource type="Animation" id=17]
+length = 0.125
+tracks/0/type = "value"
+tracks/0/path = NodePath("Position2D/Sprite:frame")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 0.06 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 1,
+"values": [ 14, 15 ]
+}
+
+[sub_resource type="RectangleShape2D" id=18]
+extents = Vector2( 15, 15 )
+
+[sub_resource type="RectangleShape2D" id=19]
+extents = Vector2( 14.9386, 15.0945 )
+
+[sub_resource type="SpriteFrames" id=20]
+animations = [ {
+"frames": [  ],
+"loop": true,
+"name": "default",
+"speed": 5.0
+} ]
+
+[node name="Player" type="Node2D"]
+pause_mode = 1
+script = ExtResource( 1 )
+
+[node name="AudioStreamPlayer2D" type="AudioStreamPlayer2D" parent="."]
+stream = ExtResource( 2 )
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="."]
+pause_mode = 2
+anims/Down = SubResource( 1 )
+anims/Down2 = SubResource( 2 )
+anims/Down_sprint = SubResource( 3 )
+anims/Down_sprint2 = SubResource( 4 )
+anims/Jump = SubResource( 5 )
+anims/Left = SubResource( 6 )
+anims/Left2 = SubResource( 7 )
+anims/Left_sprint = SubResource( 8 )
+anims/Left_sprint2 = SubResource( 9 )
+anims/Right = SubResource( 10 )
+anims/Right2 = SubResource( 11 )
+anims/Right_sprint = SubResource( 12 )
+anims/Right_sprint2 = SubResource( 13 )
+anims/Up = SubResource( 14 )
+anims/Up2 = SubResource( 15 )
+anims/Up_sprint = SubResource( 16 )
+anims/Up_sprint2 = SubResource( 17 )
+
+[node name="Tween" type="Tween" parent="."]
+pause_mode = 2
+
+[node name="GrassTween" type="Tween" parent="."]
+pause_mode = 2
+
+[node name="Position2D" type="Position2D" parent="."]
+pause_mode = 2
+
+[node name="Sprite" type="Sprite" parent="Position2D"]
+position = Vector2( 0, -16 )
+texture = ExtResource( 3 )
+hframes = 4
+vframes = 4
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="Camera2D" type="Camera2D" parent="Position2D"]
+current = true
+smoothing_speed = 4.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="GrassAnimation" type="Sprite" parent="Position2D"]
+
+[node name="Collision" type="Position2D" parent="."]
+pause_mode = 2
+visible = false
+
+[node name="Area2D" type="Area2D" parent="Collision"]
+visible = false
+collision_layer = 2
+collision_mask = 2
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Collision/Area2D"]
+shape = SubResource( 18 )
+
+[node name="NextCollision" type="Position2D" parent="."]
+visible = false
+
+[node name="Up" type="Area2D" parent="NextCollision"]
+position = Vector2( 0, -32 )
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="NextCollision/Up"]
+shape = SubResource( 18 )
+
+[node name="Down" type="Area2D" parent="NextCollision"]
+position = Vector2( 0, 32 )
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="NextCollision/Down"]
+shape = SubResource( 18 )
+
+[node name="Left" type="Area2D" parent="NextCollision"]
+position = Vector2( -32, 0 )
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="NextCollision/Left"]
+shape = SubResource( 18 )
+
+[node name="Right" type="Area2D" parent="NextCollision"]
+position = Vector2( 32, 0 )
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="NextCollision/Right"]
+shape = SubResource( 18 )
+
+[node name="Interact" type="Position2D" parent="."]
+visible = false
+
+[node name="Area2D" type="Area2D" parent="Interact"]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Interact/Area2D"]
+shape = SubResource( 19 )
+disabled = true
+
+[node name="Grass" type="Position2D" parent="."]
+visible = false
+
+[node name="Sprite" type="Sprite" parent="Grass"]
+visible = false
+position = Vector2( 0, 8 )
+texture = ExtResource( 4 )
+region_enabled = true
+region_rect = Rect2( 32, 80, 32, 16 )
+
+[node name="Sprite2" type="Sprite" parent="Grass"]
+visible = false
+position = Vector2( 32, 8 )
+texture = ExtResource( 4 )
+region_enabled = true
+region_rect = Rect2( 32, 80, 32, 16 )
+
+[node name="FollowerSprite" type="AnimatedSprite" parent="."]
+position = Vector2( -171, 0 )
+frames = SubResource( 20 )
+script = ExtResource( 5 )

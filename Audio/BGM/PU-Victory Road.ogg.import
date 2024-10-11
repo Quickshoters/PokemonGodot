@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-Victory Road.ogg-65e0b6871644ff9f760d137b99e4809b.oggstr"
+
+[deps]
+
+source_file="res://Audio/BGM/PU-Victory Road.ogg"
+dest_files=[ "res://.import/PU-Victory Road.ogg-65e0b6871644ff9f760d137b99e4809b.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

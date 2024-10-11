@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Sweet Scent.mp3-b8398caade173b18d8ca839f8133df2f.mp3str"
+
+[deps]
+
+source_file="res://Audio/SE/Sweet Scent.mp3"
+dest_files=[ "res://.import/Sweet Scent.mp3-b8398caade173b18d8ca839f8133df2f.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

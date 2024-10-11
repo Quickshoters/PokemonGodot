@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/PU-DMPage.wav-cc3b0e4e6da5afa0ea848b3304a35ecb.sample"
+
+[deps]
+
+source_file="res://Audio/SE/PU-DMPage.wav"
+dest_files=[ "res://.import/PU-DMPage.wav-cc3b0e4e6da5afa0ea848b3304a35ecb.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

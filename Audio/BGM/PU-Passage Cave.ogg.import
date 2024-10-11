@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-Passage Cave.ogg-46793b21f6ed0f81b46c40319eb85535.oggstr"
+
+[deps]
+
+source_file="res://Audio/BGM/PU-Passage Cave.ogg"
+dest_files=[ "res://.import/PU-Passage Cave.ogg-46793b21f6ed0f81b46c40319eb85535.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

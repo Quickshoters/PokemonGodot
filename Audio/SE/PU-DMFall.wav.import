@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/PU-DMFall.wav-aa01bec99455c9c2862711ae67a45ac0.sample"
+
+[deps]
+
+source_file="res://Audio/SE/PU-DMFall.wav"
+dest_files=[ "res://.import/PU-DMFall.wav-aa01bec99455c9c2862711ae67a45ac0.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

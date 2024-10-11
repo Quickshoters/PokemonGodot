@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Uproar.mp3-f6601eb5645d91b59aa5b0f803f64300.mp3str"
+
+[deps]
+
+source_file="res://Audio/SE/Uproar.mp3"
+dest_files=[ "res://.import/Uproar.mp3-f6601eb5645d91b59aa5b0f803f64300.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Defense Curl.mp3-86c41f29066a87e447036069e1f9b44e.mp3str"
+
+[deps]
+
+source_file="res://Audio/SE/Defense Curl.mp3"
+dest_files=[ "res://.import/Defense Curl.mp3-86c41f29066a87e447036069e1f9b44e.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

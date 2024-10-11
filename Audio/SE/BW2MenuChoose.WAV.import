@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/BW2MenuChoose.WAV-926df2247f11ee443d4fcbb01060a3b0.sample"
+
+[deps]
+
+source_file="res://Audio/SE/BW2MenuChoose.WAV"
+dest_files=[ "res://.import/BW2MenuChoose.WAV-926df2247f11ee443d4fcbb01060a3b0.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

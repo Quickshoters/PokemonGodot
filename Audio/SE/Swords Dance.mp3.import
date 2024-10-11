@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Swords Dance.mp3-61add76a8a3c5b61d72b994a190db6e3.mp3str"
+
+[deps]
+
+source_file="res://Audio/SE/Swords Dance.mp3"
+dest_files=[ "res://.import/Swords Dance.mp3-61add76a8a3c5b61d72b994a190db6e3.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

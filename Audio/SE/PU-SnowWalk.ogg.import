@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-SnowWalk.ogg-601fd6c29196022eb6cf00381871ef1b.oggstr"
+
+[deps]
+
+source_file="res://Audio/SE/PU-SnowWalk.ogg"
+dest_files=[ "res://.import/PU-SnowWalk.ogg-601fd6c29196022eb6cf00381871ef1b.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

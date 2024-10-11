@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PU-NewIntro.ogg-a3a9bd9a25912ffb81020b3df23b4009.oggstr"
+
+[deps]
+
+source_file="res://Audio/BGM/PU-NewIntro.ogg"
+dest_files=[ "res://.import/PU-NewIntro.ogg-a3a9bd9a25912ffb81020b3df23b4009.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

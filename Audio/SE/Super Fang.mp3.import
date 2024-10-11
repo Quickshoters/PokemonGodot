@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Super Fang.mp3-10cf5962e3baaa5327031d6813868784.mp3str"
+
+[deps]
+
+source_file="res://Audio/SE/Super Fang.mp3"
+dest_files=[ "res://.import/Super Fang.mp3-10cf5962e3baaa5327031d6813868784.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

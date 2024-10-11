@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Weatherball.mp3-8005229072d2da14cf128bd40b26d72b.mp3str"
+
+[deps]
+
+source_file="res://Audio/SE/Weatherball.mp3"
+dest_files=[ "res://.import/Weatherball.mp3-8005229072d2da14cf128bd40b26d72b.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

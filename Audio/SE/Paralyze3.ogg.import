@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Paralyze3.ogg-40d087e88d3dad39586ae76ed8aec879.oggstr"
+
+[deps]
+
+source_file="res://Audio/SE/Paralyze3.ogg"
+dest_files=[ "res://.import/Paralyze3.ogg-40d087e88d3dad39586ae76ed8aec879.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

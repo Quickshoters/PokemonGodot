@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/blank.wav-4c3b8357c1563e70c3076d20e195adea.sample"
+
+[deps]
+
+source_file="res://Audio/BGM/blank.wav"
+dest_files=[ "res://.import/blank.wav-4c3b8357c1563e70c3076d20e195adea.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

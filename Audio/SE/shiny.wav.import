@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/shiny.wav-a20265cb3d9d1c2f282484ed3b96a269.sample"
+
+[deps]
+
+source_file="res://Audio/SE/shiny.wav"
+dest_files=[ "res://.import/shiny.wav-a20265cb3d9d1c2f282484ed3b96a269.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

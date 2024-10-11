@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Swagger.mp3-a1dabd9013a3b6c1708e9d83ad3c19c8.mp3str"
+
+[deps]
+
+source_file="res://Audio/SE/Swagger.mp3"
+dest_files=[ "res://.import/Swagger.mp3-a1dabd9013a3b6c1708e9d83ad3c19c8.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

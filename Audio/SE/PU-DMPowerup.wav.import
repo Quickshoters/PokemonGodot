@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/PU-DMPowerup.wav-09033aaff4d31c0d8430940f7d01b232.sample"
+
+[deps]
+
+source_file="res://Audio/SE/PU-DMPowerup.wav"
+dest_files=[ "res://.import/PU-DMPowerup.wav-09033aaff4d31c0d8430940f7d01b232.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
